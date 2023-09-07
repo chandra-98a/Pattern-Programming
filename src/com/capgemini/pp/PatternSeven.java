@@ -7,6 +7,7 @@ public class PatternSeven {
                 if(i==1||i==5||j==1||j==5){
                     System.out.print("*");
                 }
+
                 else{
                     System.out.print(" ");
                 }
